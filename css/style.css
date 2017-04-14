@@ -1,0 +1,92 @@
+.header-row{
+  min-height:60px;
+  max-height: 100px;
+  background-color: black;
+  text-align: center;
+  padding-left: 170px;
+  padding-right: 100px;
+  overflow-y:scroll;
+}
+.title{
+  min-height:60px;
+  max-height: 100px;
+  text-align: center;
+  padding-left: 170px;
+  padding-right: 100px;
+  color: white;
+  margin: 0px;
+  position: relative;
+  top: 10px;
+}
+.header-col{
+  color: white;
+  width: 30%;
+  float: left;
+  margin: 0 auto;
+}
+.jumbo-row{
+  min-height:60px;
+  max-height: 100px;
+  text-align: center;
+  padding-left: 170px;
+  padding-right: 100px;
+}
+.jumbo-col{
+  color: white;
+  width: 25%;
+  float: left;
+  margin: 0 auto;
+}
+h3{
+text-align: center;
+}
+.jumbotron{
+  background-image;
+  min-height:800px;
+  max-height: 900px;
+  background-image: url('../image/img1.jpg');
+}
+.highlight-text{
+  text-align: center;
+  color: white;
+  font-size: 60px
+}
+.img{
+  width: 200px;
+  margin-left: 15px;
+
+}
+.info-coll{
+  width: 16%;
+  float: left;
+  margin: 20px
+}
+.info-row{
+  margin-left: 40px;
+  position: relative;
+  top:-80px;
+}
+.info{
+  text-align: center;
+}
+.white{
+  color: white;
+    text-align: center;
+}
+.footer{
+  height: 400px;
+  background-color: black;
+  position: relative;
+  top:200px;
+
+}
+h2{
+  color: white;
+  text-align: center;
+}
+.footer-info{
+  position:absolute;
+  width: 100%;
+
+
+}
